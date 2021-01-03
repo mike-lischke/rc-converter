@@ -1,4 +1,4 @@
-This project implements a tool to parse Windows .rc files and converts them to xml files. Parsing .rc files is very much like parsing C/C++ header files. As such this tool might be interesting for people who have the need to parse such header files. The tools comes with:
+This project implements a tool to parse Windows .rc files and converts them to xml files. Parsing .rc files is very much like parsing C/C++ header files. As such this tool might be interesting for people who have the need to parse such header files. The tool comes with:
 
 - Handling for unlimited nesting of include files
 - Trigraph handling and line splicing in the input reader
